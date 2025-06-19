@@ -1,0 +1,12 @@
+names:
+- helmet
+- vest
+- person33
+- no-helmet
+- no-vest
+- no-helmet-vest
+- goggles
+nc: 7
+path: C:/Users/LENOVO/Desktop/yeni
+train: C:/Users/LENOVO/Desktop/yeni/train/images
+val: C:/Users/LENOVO/Desktop/yeni/valid/images
