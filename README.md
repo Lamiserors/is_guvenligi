@@ -16,6 +16,13 @@ Bu projenin temel amacı, çalışanların iş sahasındaki güvenlik ihlallerin
 - **Performans Takibi**: Çalışanın güvenlik puanı güncellenir; böylece yönetim, durumu kolayca takip edebilir.
 - **Kültür Geliştirme**: Uzun vadede, çalışanların güvenlik bilinci ve davranışlarının iyileştirilmesi, güvenlik kültürünün kurum genelinde benimsenmesi amaçlanmaktadır.
 
+  ![Image](https://github.com/user-attachments/assets/714f7579-d811-4cff-914a-d3404deef043)
+
+![Image](https://github.com/user-attachments/assets/e307f400-2406-40d0-9265-d669dabcfe08)
+
+![Image](https://github.com/user-attachments/assets/357a5d74-b911-4b91-8026-9575478713d0)
+
+
 
 ## 🔍 Tespit Edilebilir Güvenlik İhlalleri
 
