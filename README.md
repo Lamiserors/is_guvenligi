@@ -15,7 +15,6 @@ Bu projenin temel amacı, çalışanların iş sahasındaki güvenlik ihlallerin
 - **Anında Bildirim**: Tespit edilen ihlal anında ilgili yöneticilere bildirilir.
 - **Performans Takibi**: Çalışanın güvenlik puanı güncellenir; böylece yönetim, durumu kolayca takip edebilir.
 - **Kültür Geliştirme**: Uzun vadede, çalışanların güvenlik bilinci ve davranışlarının iyileştirilmesi, güvenlik kültürünün kurum genelinde benimsenmesi amaçlanmaktadır.
-  ![kullanım durum diyagramı](diyagramlar ve mimari/kullanım durum diyagramı.png)
 
 
 ## 🔍 Tespit Edilebilir Güvenlik İhlalleri
